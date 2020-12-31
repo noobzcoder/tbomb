@@ -1,6 +1,11 @@
 ## TBomb
 <h1 align="center">
   <br>
+  Follow Me
+<p align="center">
+<a href="https://fb.com/100270428688672"><img title="Facebook" src="https://img.shields.io/badge/Facebook-NoobZ-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://github.com/noobzcoder"><img title="Github" src="https://img.shields.io/badge/Github-noobz--coder-blue?style=for-the-badge&logo=github"></a>
+
 
    ![giphy](https://user-images.githubusercontent.com/76752507/103407183-d28c2480-4b87-11eb-90c8-8d40452d26ed.gif)
   <br>
