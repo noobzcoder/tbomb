@@ -1,7 +1,8 @@
 ## TBomb
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+
+   ![giphy](https://user-images.githubusercontent.com/76752507/103407183-d28c2480-4b87-11eb-90c8-8d40452d26ed.gif)
   <br>
   TBomb v2.0b
   <br>
