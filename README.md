@@ -70,11 +70,21 @@ Run these commands to clone and run TBomb.
 
 To use the bomber type the following commands in Termux:
 ```shell script
-pkg install git -y 
-pkg install python -y 
+
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install git
+$ pkg install pip
+$ pkg install pip2
+$ pip2 install requests
+$ pip2 install mechanize
 git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
+chmod +x *
+$ pip3 install -r requirements.txt
 ./TBomb.sh
+
 ```
 
 ### For iSH
@@ -89,6 +99,7 @@ cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
 ./TBomb.sh
+
 ```
 
 ### For Debian-based GNU/Linux distributions
