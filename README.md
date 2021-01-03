@@ -69,6 +69,7 @@ Run these commands to clone and run TBomb.
 ### For Termux
 
 To use the bomber type the following commands in Termux:
+
 ```shell script
 
 $ pkg update && pkg upgrade
@@ -79,9 +80,14 @@ $ pkg install pip
 $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod +x *
+$ git clone https://github.com/TheSpeedX/TBomb.git
+```
+# How to Run in termux
+
+```shell script
+
+$ cd TBomb
+$ chmod +x *
 $ pip3 install -r requirements.txt
 ./TBomb.sh
 
