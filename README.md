@@ -1,4 +1,6 @@
 ## SMS ND CALL BOMBER
+![1610047534582-01](https://user-images.githubusercontent.com/76752507/104003053-1dcbb600-51cc-11eb-9a57-aae865b6dfde.jpeg)
+
 <h1 align="center">
   <br>
   Follow Me
@@ -118,50 +120,7 @@ cd TBomb
 bash TBomb.sh
 ```
 
-### For MacOS
-
-To use the application, type in the following commands in MacOS terminal:
-
-#### Install Brew
-
-```shell script
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-````
-
-#### Install dependencies:
-
-```shell script
-brew install git
-brew install python3
-sudo easy_install pip
-sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-```
-
-#### Run TBomb
-
-```shell script
-bash TBomb.sh
-```
-
-#### Missing Tools on MacOS & iSH App
-
-The package `toilet` cannot be installed yet. But TBomb does still work.
-
-## Demonstrative Video:
-
-- Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
-- Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
-
-## Contributors
-
-- Catch **[t0xic0der](https://github.com/t0xic0der)** at https://atlasdoc.netlify.app
-- Check **[Avinash](https://github.com/AvinashReddy3108)** at https://github.com/AvinashReddy3108
-- Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
-- Mail **[Stefan](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
-- Ping **Rieltar** at https://t.me/RieltarReborn
-
+#
 
 ## Donators:
 
@@ -177,9 +136,4 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 - [ ] Add Update Feature without git (download tarball and extract)
 - [x] Split code into multiple files (after Deprecation)
 
-
-## Contact me  
-
-For Queries: [Telegram Group](https://t.me/TBombChat)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
 
